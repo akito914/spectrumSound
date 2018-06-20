@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\akito\documents\visual studio\projects\spectrumsound\main.cpp(104): warning C4244: '=': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\akito\documents\visual studio\projects\spectrumsound\main.cpp(117): warning C4244: '/=': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\akito\documents\visual studio\projects\spectrumsound\main.cpp(128): warning C4244: '=': 'double' から 'short' への変換です。データが失われる可能性があります。
+  spectrumSound.vcxproj -> C:\Users\Akito\Documents\visual studio\Projects\spectrumSound\x64\Debug\spectrumSound.exe
+  spectrumSound.vcxproj -> C:\Users\Akito\Documents\visual studio\Projects\spectrumSound\x64\Debug\spectrumSound.pdb (Partial PDB)
